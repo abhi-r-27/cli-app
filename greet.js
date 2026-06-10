@@ -5,3 +5,4 @@ function greet(name) {
 console.log(greet("Developer"));
 console.log("Welcome to Git");
 // History continues
+// End of file
