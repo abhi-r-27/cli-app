@@ -1,4 +1,5 @@
 function greet(name) {
+console.log("Application starting");
   return `Hello, ${name}!`;
 }
 
